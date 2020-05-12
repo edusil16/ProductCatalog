@@ -28,5 +28,5 @@ Para executar este projeto, você precisará ter os pacotes instalados:
 
 - Faça o download da API.
 
-- Vá até a pasta de diretório onde estão guardados os arquivos da SLN e abra CMD seguindo pelo comando <b>dotnet run</b>.
+- Vá até a pasta de diretório onde estão guardados os arquivos da SLN e abra CMD seguido pelo comando <b>dotnet run</b>.
 
